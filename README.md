@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Danish-khan-coder/LeetCode/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/Danish-khan-coder/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Danish-khan-coder/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Danish-khan-coder/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Danish-khan-coder/LeetCode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Danish-khan-coder/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Danish-khan-coder/LeetCode/tree/master/0197-rising-temperature) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Danish-khan-coder/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
