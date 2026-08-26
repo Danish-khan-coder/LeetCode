@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Danish-khan-coder/LeetCode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Danish-khan-coder/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Danish-khan-coder/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Danish-khan-coder/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Danish-khan-coder/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Danish-khan-coder/LeetCode/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/Danish-khan-coder/LeetCode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
