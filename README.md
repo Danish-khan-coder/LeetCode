@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Danish-khan-coder/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Danish-khan-coder/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Danish-khan-coder/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Danish-khan-coder/LeetCode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Danish-khan-coder/LeetCode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Danish-khan-coder/LeetCode/tree/master/0070-climbing-stairs) |
 ## Database
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Danish-khan-coder/LeetCode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Danish-khan-coder/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
